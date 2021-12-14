@@ -9,6 +9,7 @@
 - 💼 &nbsp; Working as a Freelancer on Upwork.
 - 🌱 &nbsp; Learning more about Cloud Architecture, Systems Design and Artificial Intelligence.
 - ✍️ &nbsp; Pursuing Graphic Design, Copy Writing and Blog Writing as hobbies/side hustles.
+- 💻 &nbsp; I create Android Apps, IOS Apps and Web Applications
 
 <h3> 🛠 &nbsp;Tech Stack</h3>
 
