@@ -44,7 +44,7 @@
 
 <br/>
 
-<a href="https://github.com/AVS1508">
+<a href="https://github.com/tez-hub">
   <img height="180em" src="https://github-readme-stats.vercel.app/api?username=tez-hub&theme=buefy&show_icons=true" />
   <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=tez-hub&theme=buefy&layout=compact" />
 </a>
